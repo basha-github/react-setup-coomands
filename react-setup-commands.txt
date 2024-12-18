@@ -14,4 +14,7 @@ npm i bootstrap
 
 npm i react-router-dom
 
+
+import 'bootstrap/dist/css/bootstrap.css'----- include in main.tsx  and comment index.css
+
  
